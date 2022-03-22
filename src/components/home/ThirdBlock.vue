@@ -36,7 +36,7 @@ const { t } = useI18n({
       title: "A better life is our wish.",
       features: {
         teach: {
-          _1: "Everyone is a expert in his field, so we help each other by teaching each other.",
+          _1: "Everyone is an expert in his field, so we help each other by teaching each other.",
           _2:
             "In Foxstack Club, you may request help for a puzzle in your work, learning a new skill, or just a new work opportunity; " +
             "you may also offer help by writing a guide, texting in slack, to make the others' life easier.",
